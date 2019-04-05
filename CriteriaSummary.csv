@@ -1,0 +1,9 @@
+,Code,Name,Type,Use
+20,g4_68_LF,Liquid Assets to Total Deposits and Borrowing,Liquidity and Funding,TRUE
+22,g1_15_AQ,Loan Loss Reserve to Non Performing Assets,Asset Quality,TRUE
+27,g4_61_LF,Loans to Customer Deposits,Liquidity and Funding,TRUE
+48,g5_86_PE,Operating Profit to Risk Weighted Assets,Profitability and Earnings,TRUE
+56,g5_99_PE,ROAE Return on Average Common Equity,Profitability and Earnings,TRUE
+59,g2_37_CL,Tangible Total Equity to Tangible Total Assets,Capital and Leverage,TRUE
+60,g1_25_AQ,Texas Ratio,Asset Quality,TRUE
+62,g2_38_CL,Tier 1 Regulatory Capital Ratio,Capital and Leverage,TRUE
