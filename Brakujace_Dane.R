@@ -7,8 +7,8 @@ library(plyr)
 library(dplyr)
 library(ggplot2)
 
-estimationDataNA <- read.csv("\\\\Ubsprod.msad.ubs.net\\groupshares\\GLOBAL\\DZ_NRM\\CIRM\\Natalia\\UJcalsses\\workshops\\Final\\Data\\FinancialData2.csv")
-CriteriaSummary <- read.csv("\\\\Ubsprod.msad.ubs.net\\groupshares\\GLOBAL\\DZ_NRM\\CIRM\\Natalia\\UJcalsses\\workshops\\Final\\Data\\CriteriaSummary.csv")
+estimationDataNA <- read.csv("FinancialData2.csv")
+CriteriaSummary <- read.csv("CriteriaSummary.csv")
 
 ChampionModelCriteria <- c('g1_15_AQ','g1_25_AQ','g2_38_CL','g2_37_CL','g4_61_LF','g4_68_LF','g5_86_PE','g5_99_PE')
 
